@@ -69,4 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 testing hehe
 
-update to reject 2
+update to reject
